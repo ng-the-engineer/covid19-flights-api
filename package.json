@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel --presets es2015 -d build/ src",
     "test": "babel --presets es2015 -d build/ src && mocha ./build/services/flights.spec.js",
-    "run-dev": "babel --presets es2015 -d build/ src && node ./build/app.js",
+    "run-dev": "babel --presets es2015 -d build/ src && node ./build/index.js",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

@@ -10,7 +10,7 @@ app.use(logger())
 app.use(bodyParser())
 app.use(mainRoute.routes())
 
-app.listen(5000, async ()=> {
+app.listen(80, async ()=> {
   console.log('App start to listen at port 5000')
 })
 
