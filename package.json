@@ -1,0 +1,34 @@
+{
+  "name": "covid19-flights-api",
+  "version": "1.0.0",
+  "description": "Flights with Covid-19 Cases API server",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel --presets es2015 -d build/ src",
+    "test": "babel --presets es2015 -d build/ src && mocha ./build/services/flights.spec.js",
+    "run-dev": "babel --presets es2015 -d build/ src && node ./build/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ng-the-engineer/covid19-flights-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ng-the-engineer/covid19-flights-api/issues"
+  },
+  "homepage": "https://github.com/ng-the-engineer/covid19-flights-api#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "chai": "^4.2.0",
+    "gh-pages": "^3.1.0"
+  },
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^9.1.0"
+  }
+}
