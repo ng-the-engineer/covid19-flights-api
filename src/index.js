@@ -5,13 +5,14 @@ import logger from 'koa-logger'
 import mainRoute from './routes/mainRoute'
 
 const app = new Koa()
+const port = process.env.PORT || 3000
 
 app.use(logger())
 app.use(bodyParser())
 app.use(mainRoute.routes())
 
-app.listen(80, async ()=> {
-  console.log('App start to listen at port 80')
+app.listen(port, async ()=> {
+  console.log(`App start to listen at port ${port}`)
 })
 
 
