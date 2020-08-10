@@ -6,7 +6,9 @@
   "scripts": {
     "build": "babel --presets es2015 -d build/ src",
     "test": "babel --presets es2015 -d build/ src && mocha ./build/services/flights.spec.js",
-    "run-dev": "babel --presets es2015 -d build/ src && node ./build/app.js"
+    "run-dev": "babel --presets es2015 -d build/ src && node ./build/app.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/ng-the-engineer/covid19-flights-api/issues"
   },
-  "homepage": "https://github.com/ng-the-engineer/covid19-flights-api#readme",
+  "homepage": "http://ng-the-engineer.github.io/covid19-flights-api",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
