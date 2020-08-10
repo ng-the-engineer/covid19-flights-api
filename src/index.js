@@ -11,7 +11,7 @@ app.use(bodyParser())
 app.use(mainRoute.routes())
 
 app.listen(80, async ()=> {
-  console.log('App start to listen at port 5000')
+  console.log('App start to listen at port 80')
 })
 
 
