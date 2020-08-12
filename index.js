@@ -19,11 +19,12 @@ var _mainRoute2 = _interopRequireDefault(_mainRoute);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var app = new _koa2.default();
+var port = process.env.PORT || 3000;
 
 app.use((0, _koaLogger2.default)());
 app.use((0, _koaBodyparser2.default)());
 app.use(_mainRoute2.default.routes());
 
-app.listen(80, async function () {
-  console.log('App start to listen at port 5000');
+app.listen(port, async function () {
+  console.log('App start to listen at port ' + port);
 });
