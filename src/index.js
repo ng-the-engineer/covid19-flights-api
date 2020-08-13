@@ -10,6 +10,7 @@ const port = process.env.PORT || 3000
 app.use(logger())
 app.use(bodyParser())
 app.use(mainRoute.routes())
+app.use(mainRoute.allowedMethods())
 
 app.use(async (ctx, next) => {
   ctx.set('Access-Control-Allow-Origin', '*');
