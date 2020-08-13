@@ -4,6 +4,7 @@ import flightsService from '../services/flights'
 const router = koaRouter()
 
 router.get('/api/flights', async (ctx) => {
+  console.log('headers', ctx.request.headers)
   const request = ctx.query
   ctx.assert(request.airline, 422, 'Param `airline` is mandatory')
   ctx.assert(request.flightNumber, 422, 'Param `flightNumber` is mandatory')
