@@ -1,7 +1,7 @@
 import Koa from 'koa'
 import bodyParser from 'koa-bodyparser'
 import logger from 'koa-logger'
-import cors from '@koa/cors'
+import cors from 'koa2-cors'
 
 import mainRoute from './routes/mainRoute'
 
