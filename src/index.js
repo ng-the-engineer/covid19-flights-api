@@ -11,9 +11,7 @@ const port = process.env.PORT || 3000
 app.use(logger())
 app.use(bodyParser())
 app.use(mainRoute.routes())
-app.use(cors({
-  origin: '*'
-}))
+app.use(cors())
 
 app.listen(port, async ()=> {
   console.log(`App start to listen at port ${port}`)
