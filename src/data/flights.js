@@ -5908,7 +5908,7 @@ const records = [
     "flight_number": "608",
     "origin": "Bangkok",
     "destination": "Hong Kong",
-    "Date of travel": "07/08/2020",
+    "arrival_date": "07/08/2020",
     "case_number": "4014",
     "seat_number": "C1"
   },
@@ -5917,7 +5917,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "07/08/2020",
+    "arrival_date": "07/08/2020",
     "case_number": "4025",
     "seat_number": "69D"
   },
@@ -5926,7 +5926,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "07/08/2020",
+    "arrival_date": "07/08/2020",
     "case_number": "4556",
     "seat_number": "72A"
   },
@@ -5935,7 +5935,7 @@ const records = [
     "flight_number": "818",
     "origin": "Doha",
     "destination": "Hong Kong",
-    "Date of travel": "10/08/2020",
+    "arrival_date": "10/08/2020",
     "case_number": "4182",
     "seat_number": "37G"
   },
@@ -5944,7 +5944,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "10/08/2020",
+    "arrival_date": "10/08/2020",
     "case_number": "4274",
     "seat_number": "42A"
   },
@@ -5953,7 +5953,7 @@ const records = [
     "flight_number": "310",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "11/08/2020",
+    "arrival_date": "11/08/2020",
     "case_number": "4254",
     "seat_number": "13C"
   },
@@ -5962,7 +5962,7 @@ const records = [
     "flight_number": "734",
     "origin": "Kuala Lumpur",
     "destination": "Hong Kong",
-    "Date of travel": "12/08/2020",
+    "arrival_date": "12/08/2020",
     "case_number": "4360",
     "seat_number": "15H"
   },
@@ -5971,7 +5971,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "13/08/2020",
+    "arrival_date": "13/08/2020",
     "case_number": "4362",
     "seat_number": "64A"
   },
@@ -5980,7 +5980,7 @@ const records = [
     "flight_number": "782",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "13/08/2020",
+    "arrival_date": "13/08/2020",
     "case_number": "4363",
     "seat_number": ""
   },
@@ -5989,7 +5989,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "13/08/2020",
+    "arrival_date": "13/08/2020",
     "case_number": "4364",
     "seat_number": "55B"
   },
@@ -5998,7 +5998,7 @@ const records = [
     "flight_number": "300",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4408",
     "seat_number": "31A"
   },
@@ -6007,7 +6007,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4464",
     "seat_number": "30H"
   },
@@ -6016,7 +6016,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4465",
     "seat_number": "22B"
   },
@@ -6025,7 +6025,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4466",
     "seat_number": "33J"
   },
@@ -6034,7 +6034,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4483",
     "seat_number": "17F"
   },
@@ -6043,7 +6043,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4484",
     "seat_number": "17H"
   },
@@ -6052,7 +6052,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4485",
     "seat_number": "31E"
   },
@@ -6061,7 +6061,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4486",
     "seat_number": "36E"
   },
@@ -6070,7 +6070,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4487",
     "seat_number": "31D"
   },
@@ -6079,7 +6079,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4506",
     "seat_number": "32B"
   },
@@ -6088,7 +6088,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4507",
     "seat_number": "36B"
   },
@@ -6097,7 +6097,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4508",
     "seat_number": "15B"
   },
@@ -6106,7 +6106,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4578",
     "seat_number": "17G"
   },
@@ -6115,7 +6115,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4579",
     "seat_number": "21A"
   },
@@ -6124,7 +6124,7 @@ const records = [
     "flight_number": "314",
     "origin": "New Delhi",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "4594",
     "seat_number": "30G"
   },
@@ -6133,7 +6133,7 @@ const records = [
     "flight_number": "881",
     "origin": "Los Angeles",
     "destination": "Hong Kong",
-    "Date of travel": "14/08/2020",
+    "arrival_date": "14/08/2020",
     "case_number": "",
     "seat_number": "19G"
   },
@@ -6142,7 +6142,7 @@ const records = [
     "flight_number": "876",
     "origin": "Jakarta",
     "destination": "Hong Kong",
-    "Date of travel": "15/08/2020",
+    "arrival_date": "15/08/2020",
     "case_number": "4488",
     "seat_number": ""
   },
@@ -6151,7 +6151,7 @@ const records = [
     "flight_number": "101",
     "origin": "Helsinki",
     "destination": "Hong Kong",
-    "Date of travel": "15/08/2020",
+    "arrival_date": "15/08/2020",
     "case_number": "4489",
     "seat_number": "Unknown"
   },
@@ -6160,7 +6160,7 @@ const records = [
     "flight_number": "906",
     "origin": "Manila",
     "destination": "Hong Kong",
-    "Date of travel": "15/08/2020",
+    "arrival_date": "15/08/2020",
     "case_number": "4490",
     "seat_number": "65A"
   },
@@ -6169,7 +6169,7 @@ const records = [
     "flight_number": "070",
     "origin": "Istanbul",
     "destination": "Hong Kong",
-    "Date of travel": "15/08/2020",
+    "arrival_date": "15/08/2020",
     "case_number": "4509",
     "seat_number": "40A"
   },
@@ -6178,7 +6178,7 @@ const records = [
     "flight_number": "007",
     "origin": "Vancouver",
     "destination": "Hong Kong",
-    "Date of travel": "19/08/2020",
+    "arrival_date": "19/08/2020",
     "case_number": "4612",
     "seat_number": "24G"
   },
@@ -6187,7 +6187,7 @@ const records = [
     "flight_number": "734",
     "origin": "Kuala Lumpur",
     "destination": "Hong Kong",
-    "Date of travel": "19/08/2020",
+    "arrival_date": "19/08/2020",
     "case_number": "4620",
     "seat_number": "67K"
   },
@@ -6196,7 +6196,7 @@ const records = [
     "flight_number": "883",
     "origin": "Los Angeles",
     "destination": "Hong Kong",
-    "Date of travel": "20/08/2020",
+    "arrival_date": "20/08/2020",
     "case_number": "4611",
     "seat_number": "43C"
   }
