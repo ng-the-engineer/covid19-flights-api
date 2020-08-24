@@ -5902,6 +5902,303 @@ const records = [
     "arrival_date": "04/08/2020",
     "case_number": "892",
     "seat_number": "22C"
+  },
+  {
+    "airline": "ET",
+    "flight_number": "608",
+    "origin": "Bangkok",
+    "destination": "Hong Kong",
+    "Date of travel": "07/08/2020",
+    "case_number": "4014",
+    "seat_number": "C1"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "07/08/2020",
+    "case_number": "4025",
+    "seat_number": "69D"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "07/08/2020",
+    "case_number": "4556",
+    "seat_number": "72A"
+  },
+  {
+    "airline": "QR",
+    "flight_number": "818",
+    "origin": "Doha",
+    "destination": "Hong Kong",
+    "Date of travel": "10/08/2020",
+    "case_number": "4182",
+    "seat_number": "37G"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "10/08/2020",
+    "case_number": "4274",
+    "seat_number": "42A"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "310",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "11/08/2020",
+    "case_number": "4254",
+    "seat_number": "13C"
+  },
+  {
+    "airline": "KA",
+    "flight_number": "734",
+    "origin": "Kuala Lumpur",
+    "destination": "Hong Kong",
+    "Date of travel": "12/08/2020",
+    "case_number": "4360",
+    "seat_number": "15H"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "13/08/2020",
+    "case_number": "4362",
+    "seat_number": "64A"
+  },
+  {
+    "airline": "HX",
+    "flight_number": "782",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "13/08/2020",
+    "case_number": "4363",
+    "seat_number": ""
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "13/08/2020",
+    "case_number": "4364",
+    "seat_number": "55B"
+  },
+  {
+    "airline": "PR",
+    "flight_number": "300",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4408",
+    "seat_number": "31A"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4464",
+    "seat_number": "30H"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4465",
+    "seat_number": "22B"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4466",
+    "seat_number": "33J"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4483",
+    "seat_number": "17F"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4484",
+    "seat_number": "17H"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4485",
+    "seat_number": "31E"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4486",
+    "seat_number": "36E"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4487",
+    "seat_number": "31D"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4506",
+    "seat_number": "32B"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4507",
+    "seat_number": "36B"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4508",
+    "seat_number": "15B"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4578",
+    "seat_number": "17G"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4579",
+    "seat_number": "21A"
+  },
+  {
+    "airline": "AI",
+    "flight_number": "314",
+    "origin": "New Delhi",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "4594",
+    "seat_number": "30G"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "881",
+    "origin": "Los Angeles",
+    "destination": "Hong Kong",
+    "Date of travel": "14/08/2020",
+    "case_number": "",
+    "seat_number": "19G"
+  },
+  {
+    "airline": "GA",
+    "flight_number": "876",
+    "origin": "Jakarta",
+    "destination": "Hong Kong",
+    "Date of travel": "15/08/2020",
+    "case_number": "4488",
+    "seat_number": ""
+  },
+  {
+    "airline": "AY",
+    "flight_number": "101",
+    "origin": "Helsinki",
+    "destination": "Hong Kong",
+    "Date of travel": "15/08/2020",
+    "case_number": "4489",
+    "seat_number": "Unknown"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "906",
+    "origin": "Manila",
+    "destination": "Hong Kong",
+    "Date of travel": "15/08/2020",
+    "case_number": "4490",
+    "seat_number": "65A"
+  },
+  {
+    "airline": "TK",
+    "flight_number": "070",
+    "origin": "Istanbul",
+    "destination": "Hong Kong",
+    "Date of travel": "15/08/2020",
+    "case_number": "4509",
+    "seat_number": "40A"
+  },
+  {
+    "airline": "AC",
+    "flight_number": "007",
+    "origin": "Vancouver",
+    "destination": "Hong Kong",
+    "Date of travel": "19/08/2020",
+    "case_number": "4612",
+    "seat_number": "24G"
+  },
+  {
+    "airline": "KA",
+    "flight_number": "734",
+    "origin": "Kuala Lumpur",
+    "destination": "Hong Kong",
+    "Date of travel": "19/08/2020",
+    "case_number": "4620",
+    "seat_number": "67K"
+  },
+  {
+    "airline": "CX",
+    "flight_number": "883",
+    "origin": "Los Angeles",
+    "destination": "Hong Kong",
+    "Date of travel": "20/08/2020",
+    "case_number": "4611",
+    "seat_number": "43C"
   }
 ]
 
